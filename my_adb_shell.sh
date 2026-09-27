@@ -131,7 +131,6 @@ if [ -z "$CONNECT_ADDR" ]; then
     echo "[+] Automatic discovery did not find the device."
     echo "[+] Searching local ADB connection ports..."
 
-    # Use nmap when available.
     if command -v nmap >/dev/null 2>&1; then
 
         echo "[+] nmap detected."
@@ -148,7 +147,7 @@ if [ -z "$CONNECT_ADDR" ]; then
 
             CONNECT_OUTPUT="$(
                 "$ADB" connect "127.0.0.1:$PORT" 2>&1
-            )
+            )"
 
             echo "$CONNECT_OUTPUT"
 
