@@ -327,7 +327,7 @@ One shell.
 
 ## 📬 聯繫創作者
 
-- Instagram：[a370373/XRH](https://instagram.com/a370373)
+- Gmail: b0953166696@gmail.com
 - 本人17歲🤔 做的不好請見諒
 - 獨立開發 ＆ AI協作
 - 緩慢更新 ＆ 除錯
@@ -338,6 +338,7 @@ One shell.
 
 ## 👀作品 & 產品 集
 
+- [MyDNS](https://github.com/a370373/MyDNS/tree/main)
 - [Cyber-Fly-Android-Bridge](https://github.com/a370373/Cyber-Fly-Android-Bridge)
 - [My-ADB-Shell](https://github.com/a370373/My-ADB-Shell/tree/main)
 - [Cyber-Fly](https://github.com/a370373/Cyber-Fly)
@@ -351,7 +352,7 @@ One shell.
 
 ## 🤖 AI 協作
 
-My-ADB-shell 由 a370373/XRH 發起、設計與開發。
+My-ADB-Shell 由 a370373/XRH 發起、設計與開發。
 
 開發過程中使用 OpenAI ChatGPT 作為 AI 協作夥伴，協助進行 技術分析、程式碼檢查、除錯 & 文件整理。
 
